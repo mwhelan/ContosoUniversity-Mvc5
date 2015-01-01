@@ -6,8 +6,8 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using ContosoUniversity.DAL;
-using ContosoUniversity.Models;
+using ContosoUniversity.Core.Domain.Model;
+using ContosoUniversity.Core.Infrastructure.Data;
 using ContosoUniversity.ViewModels;
 using System.Data.Entity.Infrastructure;
 
